@@ -10,9 +10,7 @@ function Card({username,work="dev"}) {
                 <div class="pt-6 space-y-4">
                     <blockquote>
                     <p className="text-lg font-medi">
-                    Coffee isn’t just a drink—it’s an experience. As the evening sets in, the rich aroma of freshly brewed coffee fills the air, wrapping me in warmth and calm. That first sip is pure comfort, soothing yet awakening, as if the day’s stress melts away with each taste. 
-            
-                    It’s not just about the caffeine; it’s the ritual—the slow pour, the rising steam, the quiet moment of reflection. Whether enjoyed alone or with a friend, coffee in the evening feels like a peaceful pause, a small joy that makes everything feel just a little better.
+                    Coffee isn’t just a drink—it’s an experience. As the evening sets in, the rich aroma of freshly brewed coffee fills the air, wrapping me in warmth and calm. That first sip is pure comfort, soothing yet awakening, as if the day’s stress melts away with each taste.
                     </p>
           </blockquote>
           <figcaption>
